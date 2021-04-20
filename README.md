@@ -1,4 +1,4 @@
-### ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Antonio!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Antonio!
 
 
 Hello, nice to meet you, my name is Antonio, I'm from Brazil and I'm an aspiring Data Engineer, with knowledge in Python, Linux (Ubuntu), and some ETL tools.
