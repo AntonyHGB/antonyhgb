@@ -1,10 +1,13 @@
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAntonyHGB)
+
+
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Antonio!
 
 Nice to meet you, my name is Antonio, I'm from Brazil and I'm an aspiring Data Engineer, with knowledge in Python, Linux (Ubuntu), and some ETL tools.
 
 I am currently learning to improve myself every time in everything that encompasses the world of data engineering.
 I hope you enjoy and have fun on my profile.
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAntonyHGB)
+
 
 <!--
 **AntonyHGB/antonyhgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
