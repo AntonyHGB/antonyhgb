@@ -1,4 +1,4 @@
-### Hi there <img src="<div class="tenor-gif-embed" data-postid="8607294" data-share-method="host" data-width="100%" data-aspect-ratio="1.384"><a href="https://tenor.com/view/doggo-typing-dog-working-hard-hardly-working-homework-gif-8607294">Doggo Typing Dog GIF</a> from <a href="https://tenor.com/search/doggo-gifs">Doggo GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="30px">, I am Antonio!
+### Hi there <img src="https://tenor.com/Khju.gif"></script>" width="30px">, I am Antonio!
 
 
 <!--
