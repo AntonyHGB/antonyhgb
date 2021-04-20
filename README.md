@@ -13,6 +13,6 @@ I hope you enjoy and have fun on my profile.
 
 🧰 Toolbox
 
-<img src="![image](https://user-images.githubusercontent.com/80349004/115476193-be902f80-a217-11eb-9cc4-612f09375357.png)" alt="python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="![image](https://user-images.githubusercontent.com/80349004/115476223-d5368680-a217-11eb-8895-5c5cc600b9c9.png)" alt="python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
