@@ -17,11 +17,3 @@ I hope you enjoy and have fun on my profile.
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana Logo" width="50" height="50"/>
 
 ---
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<AntonyHGB>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![AntonyHGB GitHub stats](https://github-readme-stats.vercel.app/api?username=<AntonyHGB>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
