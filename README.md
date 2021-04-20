@@ -22,6 +22,6 @@ I hope you enjoy and have fun on my profile.
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<antonyhgb>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<AntonyHGB>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<antonyhgb>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<AntonyHGB>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
