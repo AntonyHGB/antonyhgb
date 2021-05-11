@@ -3,9 +3,6 @@
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAntonyHGB) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCB_vaVB56pDCk4Sld7_WkKw?style=social)
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="vertical" data-theme="dark" data-vanity="antonio-henrique"><a class="LI-simple-link" href='https://br.linkedin.com/in/antonio-henrique?trk=profile-badge'>Antonio Henrique</a></div>
-
 Nice to meet you, I'm from Brazil and I'm an aspiring Data Engineer, with knowledge in Python, Linux (Ubuntu), and some ETL tools.
 
 I am currently learning to improve myself every time in everything that encompasses the world of data engineering.
