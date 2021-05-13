@@ -5,7 +5,7 @@
 
 Nice to meet you, I'm from Brazil and I'm an aspiring Data Engineer, with knowledge in Python, Linux (Ubuntu), and some ETL tools.
 
-I am currently learning to improve myself every time in everything that encompasses the world of data engineering.
+I'm currently learning to improve myself every time in everything that encompasses the world of data engineering.
 
 I hope you enjoy and have fun on my profile.
 
