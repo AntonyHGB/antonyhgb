@@ -14,6 +14,6 @@ I hope you enjoy and have fun on my profile.
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="Grafana Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Docker Logo" width="50" height="50"/>
 
 ---
