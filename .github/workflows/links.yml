@@ -1,0 +1,22 @@
+name: Links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Toda segunda-feira às 06:00 UTC: pega links que quebraram sem commit novo.
+    - cron: "0 6 * * 1"
+
+jobs:
+  markdown-links:
+    name: Checar links do README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          # LinkedIn bloqueia bots (HTTP 999); não faz sentido tratar como link quebrado.
+          args: --verbose --no-progress --exclude linkedin.com README.md
+          fail: true
